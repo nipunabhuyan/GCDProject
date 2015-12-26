@@ -2,7 +2,7 @@ title	date	output
 Codebook
 December 25, 205
 html_document
-Codebook was generated on 2015-12-25 16:04:20 during the same process that generated the dataset. See run_analysis.md or run_analysis.html for details on dataset creation.
+Codebook was generated on 2015-12-25 16:04:20 during the same process that generated the dataset.
 
 Variable and descriptions
 
